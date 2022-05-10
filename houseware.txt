@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<meta charset=utf-8">
+<title> House Ware </title>
+</head>
+<body background="pink.jpg">
+<p align="center"> <h1 style="color:darkblue";> House Ware </h1>
+<img src="dress1.jpg" alt="Not showing image"width="400px" height="500">
+<br>
+<img src="dress2.jpg" alt="Not showing image" width="400px" height="500"> 
+<br>
+<img src="dress3.jpg" alt="Not showing image" width="400px" height="500">
+<br>
+<img src="dress4.jpg" alt="Not showing image"width="400px" height="500">
+<br>
+<img src="dress5.jpg" alt="Not showing image"width="400px" height="500">
+<br>
+<table border="1" align="center" style="color:darkblue";>
+<tr> 
+<th> Name </th>
+<th> Sizes </th>
+<th> Price </th>
+</tr>
+<tr>
+<td> Midi Embroidered Dress </td>
+<td> XS:L </td>
+<td> 1999 </td>
+</tr>
+<tr>
+<td> Long Printed Dress </td>
+<td> XS:L </td>
+<td> 1400 </td>
+</tr>
+<tr>
+<td> Embroidered Shirt Dress </td>
+<td> XS:L </td>
+<td> 1300 </td>
+</tr>
+<tr>
+<td> Printed Poplin Dress </td>
+<td> XS:L </td>
+<td> 1000 </td>
+</tr>
+<tr>
+<td> Dress with cutwork </td>
+<td> XS:L </td>
+<td> 1400 </td>
+</tr>
+</table>
+</body>
+</html>
